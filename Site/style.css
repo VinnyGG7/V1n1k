@@ -1,7 +1,12 @@
-header{
+.cabecalho{
     background-color: #DC0000;
-    color: black;
+    color: rgb(black);
+    display: flex;
+    justify-content: space-around;
 }
 .cabecalho-Imagem{
     width: 20%;
+}
+.cabecalhoListaItem{
+    display: inline-block;
 }
